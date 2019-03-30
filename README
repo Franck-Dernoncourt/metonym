@@ -1,3 +1,6 @@
+Note: This fork has the same features as [metonym](https://github.com/sharmi/metonym), but it is compatible with Python 3.
+
+
 Open Source world often provides nuggets of gold. Only you might have to spend some time mining them.  WordNet is such a nugget, if there ever was one.  So many words and their senses are catalogued often along with their inherent structure.  A definition for each word sense and plenty of examples are also provided.  What is missing is a well rounded algorithm for similarity comparison for words.  
 
 The Issue

@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-print find_packages()
+print(find_packages())
 setup(name='metonym',
       version='0.2',
       packages=find_packages(),
